@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Zach
-- 👀 I’m interested in web development
+- 👀 I’m interested in web development/analytics
 - 🌱 I’m currently studying Full stack Javascript
 - 📫 How to reach me email:zacharynwilliams9@gmail.com
